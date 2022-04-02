@@ -1,0 +1,17 @@
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Service.deps.json
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Service.dll
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Service.pdb
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.csprojAssemblyReference.cache
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.AssemblyInfoInputs.cache
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.AssemblyInfo.cs
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.csproj.CoreCompileInputs.cache
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.dll
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.pdb
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Service.runtimeconfig.json
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Service.runtimeconfig.dev.json
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Data.dll
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Repo.dll
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Data.pdb
+D:\Studying\AspNetCore\Store_OA\Store.Service\bin\Debug\netcoreapp3.1\Store.Repo.pdb
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.csproj.CopyComplete
+D:\Studying\AspNetCore\Store_OA\Store.Service\obj\Debug\netcoreapp3.1\Store.Service.genruntimeconfig.cache
